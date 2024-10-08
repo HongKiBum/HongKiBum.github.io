@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "홍기범집"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -20,3 +20,5 @@ intro:
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
+git feature
+modi index.md
